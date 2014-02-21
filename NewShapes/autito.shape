@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Mis imágenes - autito</name>
+  <icon>autito.png</icon>
+  <connections>
+    <point x="16.6" y="7.50833"/>
+    <point x="23.0583" y="10.7375"/>
+    <point x="23.0583" y="13.9667"/>
+    <point x="16.6" y="10.7375"/>
+    <point x="19.8292" y="9.12292"/>
+    <point x="23.0583" y="12.3521"/>
+    <point x="19.8292" y="12.3521"/>
+    <point x="16.6" y="7.50833"/>
+    <point x="23.0583" y="10.7375"/>
+    <point x="23.0583" y="13.9667"/>
+    <point x="16.6" y="10.7375"/>
+    <point x="19.8292" y="9.12292"/>
+    <point x="23.0583" y="12.3521"/>
+    <point x="19.8292" y="12.3521"/>
+    <point x="32.7458" y="5.89375"/>
+    <point x="35.975" y="4.27917"/>
+    <point x="29.5167" y="1.05"/>
+    <point x="26.2875" y="2.66458"/>
+    <point x="34.3604" y="5.08646"/>
+    <point x="32.7458" y="2.66458"/>
+    <point x="27.9021" y="1.85729"/>
+    <point x="32.7458" y="5.89375"/>
+    <point x="35.975" y="4.27917"/>
+    <point x="29.5167" y="1.05"/>
+    <point x="26.2875" y="2.66458"/>
+    <point x="34.3604" y="5.08646"/>
+    <point x="32.7458" y="2.66458"/>
+    <point x="27.9021" y="1.85729"/>
+    <point x="23.0583" y="10.7375"/>
+    <point x="27.9021" y="8.31563"/>
+    <point x="21.4438" y="5.08646"/>
+    <point x="16.6" y="7.50833"/>
+    <point x="25.4802" y="9.52656"/>
+    <point x="24.6729" y="6.70104"/>
+    <point x="19.0219" y="6.2974"/>
+    <point x="23.0583" y="10.7375"/>
+    <point x="27.9021" y="8.31563"/>
+    <point x="21.4438" y="5.08646"/>
+    <point x="16.6" y="7.50833"/>
+    <point x="25.4802" y="9.52656"/>
+    <point x="24.6729" y="6.70104"/>
+    <point x="19.0219" y="6.2974"/>
+    <point x="29.5167" y="5.89375"/>
+    <point x="32.7458" y="4.27917"/>
+    <point x="26.2875" y="1.05"/>
+    <point x="23.0583" y="2.66458"/>
+    <point x="31.1313" y="5.08646"/>
+    <point x="29.5167" y="2.66458"/>
+    <point x="24.6729" y="1.85729"/>
+    <point x="29.5167" y="5.89375"/>
+    <point x="32.7458" y="4.27917"/>
+    <point x="26.2875" y="1.05"/>
+    <point x="23.0583" y="2.66458"/>
+    <point x="31.1313" y="5.08646"/>
+    <point x="29.5167" y="2.66458"/>
+    <point x="24.6729" y="1.85729"/>
+    <point x="23.0583" y="10.7375"/>
+    <point x="35.975" y="4.27917"/>
+    <point x="35.975" y="7.50833"/>
+    <point x="23.0583" y="13.9667"/>
+    <point x="29.5167" y="7.50833"/>
+    <point x="35.975" y="5.89375"/>
+    <point x="29.5167" y="10.7375"/>
+    <point x="23.0583" y="10.7375"/>
+    <point x="35.975" y="4.27917"/>
+    <point x="35.975" y="7.50833"/>
+    <point x="23.0583" y="13.9667"/>
+    <point x="29.5167" y="7.50833"/>
+    <point x="35.975" y="5.89375"/>
+    <point x="29.5167" y="10.7375"/>
+    <point x="23.0583" y="2.66458"/>
+    <point x="29.5167" y="5.89375"/>
+    <point x="27.9021" y="8.31563"/>
+    <point x="21.4438" y="5.08646"/>
+    <point x="26.2875" y="4.27917"/>
+    <point x="28.7094" y="7.10469"/>
+    <point x="24.6729" y="6.70104"/>
+    <point x="23.0583" y="2.66458"/>
+    <point x="29.5167" y="5.89375"/>
+    <point x="27.9021" y="8.31563"/>
+    <point x="21.4438" y="5.08646"/>
+    <point x="26.2875" y="4.27917"/>
+    <point x="28.7094" y="7.10469"/>
+    <point x="24.6729" y="6.70104"/>
+    <point x="29.5167" y="5.89375"/>
+    <point x="32.7458" y="4.27917"/>
+    <point x="34.3604" y="5.08646"/>
+    <point x="27.9021" y="8.31563"/>
+    <point x="31.1313" y="5.08646"/>
+    <point x="33.5531" y="4.68281"/>
+    <point x="31.1313" y="6.70104"/>
+    <point x="29.5167" y="5.89375"/>
+    <point x="32.7458" y="4.27917"/>
+    <point x="34.3604" y="5.08646"/>
+    <point x="27.9021" y="8.31563"/>
+    <point x="31.1313" y="5.08646"/>
+    <point x="33.5531" y="4.68281"/>
+    <point x="31.1313" y="6.70104"/>
+    <point x="16.6" y="8.31563"/>
+    <point x="18.2146" y="9.12292"/>
+    <point x="18.2146" y="10.7375"/>
+    <point x="16.6" y="9.93021"/>
+    <point x="17.4073" y="8.71927"/>
+    <point x="18.2146" y="9.93021"/>
+    <point x="17.4073" y="10.3339"/>
+    <point x="16.6" y="8.31563"/>
+    <point x="18.2146" y="9.12292"/>
+    <point x="18.2146" y="10.7375"/>
+    <point x="16.6" y="9.93021"/>
+    <point x="17.4073" y="8.71927"/>
+    <point x="18.2146" y="9.93021"/>
+    <point x="17.4073" y="10.3339"/>
+    <point x="18.2146" y="9.12292"/>
+    <point x="21.4438" y="10.7375"/>
+    <point x="21.4438" y="12.3521"/>
+    <point x="18.2146" y="10.7375"/>
+    <point x="19.8292" y="9.93021"/>
+    <point x="21.4438" y="11.5448"/>
+    <point x="19.8292" y="11.5448"/>
+    <point x="18.2146" y="9.12292"/>
+    <point x="21.4438" y="10.7375"/>
+    <point x="21.4438" y="12.3521"/>
+    <point x="18.2146" y="10.7375"/>
+    <point x="19.8292" y="9.93021"/>
+    <point x="21.4438" y="11.5448"/>
+    <point x="19.8292" y="11.5448"/>
+    <point x="21.4438" y="10.7375"/>
+    <point x="23.0583" y="11.5448"/>
+    <point x="23.0583" y="13.1594"/>
+    <point x="21.4438" y="12.3521"/>
+    <point x="22.251" y="11.1411"/>
+    <point x="23.0583" y="12.3521"/>
+    <point x="22.251" y="12.7557"/>
+    <point x="21.4438" y="10.7375"/>
+    <point x="23.0583" y="11.5448"/>
+    <point x="23.0583" y="13.1594"/>
+    <point x="21.4438" y="12.3521"/>
+    <point x="22.251" y="11.1411"/>
+    <point x="23.0583" y="12.3521"/>
+    <point x="22.251" y="12.7557"/>
+    <point x="26.6911" y="13.9667"/>
+    <point x="26.6911" y="10.7375"/>
+    <point x="25.4802" y="12.3521"/>
+    <point x="27.9021" y="12.3521"/>
+    <point x="26.6911" y="13.9667"/>
+    <point x="26.6911" y="10.7375"/>
+    <point x="25.4802" y="12.3521"/>
+    <point x="27.9021" y="12.3521"/>
+    <point x="33.1495" y="10.7375"/>
+    <point x="33.1495" y="7.50833"/>
+    <point x="31.9385" y="9.12292"/>
+    <point x="34.3604" y="9.12292"/>
+    <point x="33.1495" y="10.7375"/>
+    <point x="33.1495" y="7.50833"/>
+    <point x="31.9385" y="9.12292"/>
+    <point x="34.3604" y="9.12292"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.6,7.50833 23.0583,10.7375 23.0583,13.9667 16.6,10.7375 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.6,7.50833 23.0583,10.7375 23.0583,13.9667 16.6,10.7375 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="16.6,7.50833 23.0583,10.7375 23.0583,13.9667 16.6,10.7375 "/>
+    <svg:polygon style="fill: #ffffff" points="32.7458,5.89375 35.975,4.27917 29.5167,1.05 26.2875,2.66458 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="32.7458,5.89375 35.975,4.27917 29.5167,1.05 26.2875,2.66458 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="32.7458,5.89375 35.975,4.27917 29.5167,1.05 26.2875,2.66458 "/>
+    <svg:polygon style="fill: #ffffff" points="23.0583,10.7375 27.9021,8.31563 21.4438,5.08646 16.6,7.50833 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="23.0583,10.7375 27.9021,8.31563 21.4438,5.08646 16.6,7.50833 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="23.0583,10.7375 27.9021,8.31563 21.4438,5.08646 16.6,7.50833 "/>
+    <svg:polygon style="fill: #ffffff" points="29.5167,5.89375 32.7458,4.27917 26.2875,1.05 23.0583,2.66458 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="29.5167,5.89375 32.7458,4.27917 26.2875,1.05 23.0583,2.66458 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="29.5167,5.89375 32.7458,4.27917 26.2875,1.05 23.0583,2.66458 "/>
+    <svg:polygon style="fill: #ffffff" points="23.0583,10.7375 35.975,4.27917 35.975,7.50833 23.0583,13.9667 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="23.0583,10.7375 35.975,4.27917 35.975,7.50833 23.0583,13.9667 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="23.0583,10.7375 35.975,4.27917 35.975,7.50833 23.0583,13.9667 "/>
+    <svg:polygon style="fill: #0000ff" points="23.0583,2.66458 29.5167,5.89375 27.9021,8.31563 21.4438,5.08646 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="23.0583,2.66458 29.5167,5.89375 27.9021,8.31563 21.4438,5.08646 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="23.0583,2.66458 29.5167,5.89375 27.9021,8.31563 21.4438,5.08646 "/>
+    <svg:polygon style="fill: #0000ff" points="29.5167,5.89375 32.7458,4.27917 34.3604,5.08646 27.9021,8.31563 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="29.5167,5.89375 32.7458,4.27917 34.3604,5.08646 27.9021,8.31563 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="29.5167,5.89375 32.7458,4.27917 34.3604,5.08646 27.9021,8.31563 "/>
+    <svg:polygon style="fill: #ffff00" points="16.6,8.31563 18.2146,9.12292 18.2146,10.7375 16.6,9.93021 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.6,8.31563 18.2146,9.12292 18.2146,10.7375 16.6,9.93021 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="16.6,8.31563 18.2146,9.12292 18.2146,10.7375 16.6,9.93021 "/>
+    <svg:polygon style="fill: #ffffff" points="18.2146,9.12292 21.4438,10.7375 21.4438,12.3521 18.2146,10.7375 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="18.2146,9.12292 21.4438,10.7375 21.4438,12.3521 18.2146,10.7375 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="18.2146,9.12292 21.4438,10.7375 21.4438,12.3521 18.2146,10.7375 "/>
+    <svg:polygon style="fill: #ffff00" points="21.4438,10.7375 23.0583,11.5448 23.0583,13.1594 21.4438,12.3521 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="21.4438,10.7375 23.0583,11.5448 23.0583,13.1594 21.4438,12.3521 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="21.4438,10.7375 23.0583,11.5448 23.0583,13.1594 21.4438,12.3521 "/>
+    <svg:ellipse style="fill: #ffffff" cx="26.6911" cy="12.3521" rx="1.21094" ry="1.61458"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="26.6911" cy="12.3521" rx="1.21094" ry="1.61458"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" cx="26.6911" cy="12.3521" rx="1.21094" ry="1.61458"/>
+    <svg:ellipse style="fill: #ffffff" cx="33.1495" cy="9.12292" rx="1.21094" ry="1.61458"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="33.1495" cy="9.12292" rx="1.21094" ry="1.61458"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" cx="33.1495" cy="9.12292" rx="1.21094" ry="1.61458"/>
+  </svg:svg>
+</shape>

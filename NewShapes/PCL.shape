@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - PCL</name>
+  <icon>PCL.png</icon>
+  <connections>
+    <point x="19.1823" y="8.7"/>
+    <point x="28.8694" y="18.71"/>
+    <point x="19.1823" y="18.71"/>
+    <point x="19.1823" y="13.705"/>
+    <point x="28.8694" y="8.7"/>
+    <point x="28.8694" y="13.705"/>
+    <point x="24.0258" y="18.71"/>
+    <point x="24.0258" y="8.7"/>
+    <point x="19.1823" y="8.7"/>
+    <point x="28.8694" y="18.71"/>
+    <point x="19.1823" y="18.71"/>
+    <point x="19.1823" y="13.705"/>
+    <point x="28.8694" y="8.7"/>
+    <point x="28.8694" y="13.705"/>
+    <point x="24.0258" y="18.71"/>
+    <point x="24.0258" y="8.7"/>
+    <point x="19.1823" y="13.705"/>
+    <point x="24.0258" y="8.7"/>
+    <point x="21.604" y="11.2025"/>
+    <point x="24.0258" y="8.7"/>
+    <point x="28.8694" y="13.705"/>
+    <point x="26.4476" y="11.2025"/>
+    <point x="19.1823" y="13.705"/>
+    <point x="24.0258" y="18.71"/>
+    <point x="21.604" y="16.2075"/>
+    <point x="28.8694" y="13.705"/>
+    <point x="23.85" y="18.6"/>
+    <point x="26.3597" y="16.1525"/>
+    <point x="19.1823" y="13.705"/>
+    <point x="28.8694" y="13.705"/>
+    <point x="24.0258" y="13.705"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="19.1823" y="8.7" width="9.6871" height="10.01"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="19.1823" y="8.7" width="9.6871" height="10.01"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="19.1823" y="8.7" width="9.6871" height="10.01"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="19.1823" y1="13.705" x2="24.0258" y2="8.7"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="24.0258" y1="8.7" x2="28.8694" y2="13.705"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="19.1823" y1="13.705" x2="24.0258" y2="18.71"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="28.8694" y1="13.705" x2="23.85" y2="18.6"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="19.1823" y1="13.705" x2="28.8694" y2="13.705"/>
+  </svg:svg>
+</shape>

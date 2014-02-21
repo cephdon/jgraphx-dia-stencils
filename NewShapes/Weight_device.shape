@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Weight_device</name>
+  <icon>Weight_device.png</icon>
+  <connections>
+    <point x="15.425" y="10.025"/>
+    <point x="20.025" y="19.9938"/>
+    <point x="17.725" y="15.0094"/>
+    <point x="20" y="20.0188"/>
+    <point x="25.0625" y="10.0625"/>
+    <point x="22.5313" y="15.0406"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.425" y1="10.025" x2="20.025" y2="19.9938"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20" y1="20.0188" x2="25.0625" y2="10.0625"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 25.1,10.0688 A 6.70893,6.70893 0 0 0 15.375,9.99375"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - IO_port</name>
+  <icon>IO_port.png</icon>
+  <connections>
+    <point x="16.05" y="8.7"/>
+    <point x="23.55" y="8.7"/>
+    <point x="27.3" y="10.35"/>
+    <point x="23.55" y="12"/>
+    <point x="16.05" y="12"/>
+    <point x="19.8" y="8.7"/>
+    <point x="25.425" y="9.525"/>
+    <point x="25.425" y="11.175"/>
+    <point x="19.8" y="12"/>
+    <point x="16.05" y="8.7"/>
+    <point x="23.55" y="8.7"/>
+    <point x="27.3" y="10.35"/>
+    <point x="23.55" y="12"/>
+    <point x="16.05" y="12"/>
+    <point x="19.8" y="8.7"/>
+    <point x="25.425" y="9.525"/>
+    <point x="25.425" y="11.175"/>
+    <point x="19.8" y="12"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.05,8.7 23.55,8.7 27.3,10.35 23.55,12 16.05,12 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.05,8.7 23.55,8.7 27.3,10.35 23.55,12 16.05,12 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.05,8.7 23.55,8.7 27.3,10.35 23.55,12 16.05,12 "/>
+  </svg:svg>
+</shape>

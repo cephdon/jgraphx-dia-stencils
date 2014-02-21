@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Divided_process</name>
+  <icon>Divided_process.png</icon>
+  <connections>
+    <point x="14.2" y="8.5"/>
+    <point x="27.75" y="15.75"/>
+    <point x="14.2" y="15.75"/>
+    <point x="14.2" y="12.125"/>
+    <point x="27.75" y="8.5"/>
+    <point x="27.75" y="12.125"/>
+    <point x="20.975" y="15.75"/>
+    <point x="20.975" y="8.5"/>
+    <point x="17.5875" y="8.5"/>
+    <point x="17.5875" y="15.75"/>
+    <point x="17.5875" y="12.125"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="14.2" y="8.5" width="13.55" height="7.25"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="14.2" y="8.5" width="13.55" height="7.25"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="20.975" y="12.32" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="17.5875" y1="8.5" x2="17.5875" y2="15.75"/>
+  </svg:svg>
+</shape>

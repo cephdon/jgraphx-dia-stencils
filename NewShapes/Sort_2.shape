@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Ordenacion</name>
+  <icon>Ordenacion.png</icon>
+  <connections>
+    <point x="16.35" y="5.05"/>
+    <point x="17.35" y="6.05"/>
+    <point x="16.35" y="7.05"/>
+    <point x="15.35" y="6.05"/>
+    <point x="16.85" y="5.55"/>
+    <point x="16.85" y="6.55"/>
+    <point x="15.85" y="6.55"/>
+    <point x="15.35" y="6.05"/>
+    <point x="17.35" y="6.05"/>
+    <point x="16.35" y="6.05"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.35,5.05 17.35,6.05 16.35,7.05 15.35,6.05 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.35,5.05 17.35,6.05 16.35,7.05 15.35,6.05 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.35" y1="6.05" x2="17.35" y2="6.05"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - nodo</name>
+  <icon>nodo.png</icon>
+  <connections>
+    <point x="11.35" y="13.45"/>
+    <point x="11.85" y="12.95"/>
+    <point x="14.6" y="12.95"/>
+    <point x="14.6" y="15.65"/>
+    <point x="14.1" y="16.15"/>
+    <point x="11.35" y="16.15"/>
+    <point x="11.35" y="13.45"/>
+    <point x="11.6" y="13.2"/>
+    <point x="13.225" y="12.95"/>
+    <point x="14.6" y="14.3"/>
+    <point x="14.35" y="15.9"/>
+    <point x="12.725" y="16.15"/>
+    <point x="11.35" y="14.8"/>
+    <point x="11.35" y="13.45"/>
+    <point x="14.1" y="13.45"/>
+    <point x="12.725" y="13.45"/>
+    <point x="14.1" y="13.45"/>
+    <point x="14.6" y="12.95"/>
+    <point x="14.35" y="13.2"/>
+    <point x="14.1" y="13.45"/>
+    <point x="14.1" y="16.15"/>
+    <point x="14.1" y="14.8"/>
+    <point x="11.85" y="14.695"/>
+    <point x="11.85" y="14.695"/>
+    <point x="11.85" y="14.695"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="11.35,13.45 11.85,12.95 14.6,12.95 14.6,15.65 14.1,16.15 11.35,16.15 11.35,13.45 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="11.35,13.45 11.85,12.95 14.6,12.95 14.6,15.65 14.1,16.15 11.35,16.15 11.35,13.45 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.35" y1="13.45" x2="14.1" y2="13.45"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="14.1" y1="13.45" x2="14.6" y2="12.95"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="14.1" y1="13.45" x2="14.1" y2="16.15"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: sans; font-style: normal; font-weight: normal" x="11.85" y="14.545" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.05; stroke: #000000" x1="11.85" y1="14.695" x2="11.85" y2="14.695"/>
+  </svg:svg>
+</shape>

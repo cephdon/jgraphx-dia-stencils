@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - External_process</name>
+  <icon>External_process.png</icon>
+  <connections>
+    <point x="23.0447" y="11.1947"/>
+    <point x="29.75" y="17.0723"/>
+    <point x="23.0447" y="22.95"/>
+    <point x="16.3393" y="17.0723"/>
+    <point x="26.3973" y="14.1335"/>
+    <point x="26.3973" y="20.0112"/>
+    <point x="19.692" y="20.0112"/>
+    <point x="21.3683" y="12.6641"/>
+    <point x="24.721" y="12.6641"/>
+    <point x="23.0447" y="12.6641"/>
+    <point x="18.0157" y="15.6029"/>
+    <point x="18.0157" y="18.5418"/>
+    <point x="18.0157" y="17.0723"/>
+    <point x="21.3683" y="21.4806"/>
+    <point x="24.721" y="21.4806"/>
+    <point x="23.0447" y="21.4806"/>
+    <point x="28.0737" y="15.6029"/>
+    <point x="28.0737" y="18.5418"/>
+    <point x="28.0737" y="17.0723"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="23.0447,11.1947 29.75,17.0723 23.0447,22.95 16.3393,17.0723 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="23.0447,11.1947 29.75,17.0723 23.0447,22.95 16.3393,17.0723 "/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="23.0447" y="17.2673" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="21.3683" y1="12.6641" x2="24.721" y2="12.6641"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="18.0157" y1="15.6029" x2="18.0157" y2="18.5418"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="21.3683" y1="21.4806" x2="24.721" y2="21.4806"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="28.0737" y1="15.6029" x2="28.0737" y2="18.5418"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Fuente de Datos</name>
+  <icon>Fuente de Datos.png</icon>
+  <connections>
+    <point x="15.4" y="5.05"/>
+    <point x="15.4" y="7.05"/>
+    <point x="15.4" y="6.05"/>
+    <point x="15.4" y="5.05"/>
+    <point x="17.4" y="5.05"/>
+    <point x="16.4" y="5.05"/>
+    <point x="15.4" y="7.05"/>
+    <point x="17.4" y="7.05"/>
+    <point x="16.4" y="7.05"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.4" y1="5.05" x2="15.4" y2="7.05"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.4" y1="5.05" x2="17.4" y2="5.05"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.4" y1="7.05" x2="17.4" y2="7.05"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.45" y="6.3" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

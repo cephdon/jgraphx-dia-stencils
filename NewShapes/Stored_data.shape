@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Mis imágenes - Archivo de transaccion</name>
+  <icon>Archivo de transaccion.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: #ffffff" d="M 22.1833 12.05 L 23.85,12.05 C 23.6,12.45 23.5167,12.65 23.5167,13.05 C 23.5167,13.45 23.6,13.65 23.85,14.05 L 22.1833,14.05 C 21.9333,13.65 21.85,13.45 21.85,13.05 C 21.85,12.65 21.9333,12.45 22.1833,12.05"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 22.1833 12.05 L 23.85,12.05 C 23.6,12.45 23.5167,12.65 23.5167,13.05 C 23.5167,13.45 23.6,13.65 23.85,14.05 L 22.1833,14.05 C 21.9333,13.65 21.85,13.45 21.85,13.05 C 21.85,12.65 21.9333,12.45 22.1833,12.05"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="22.85" y="13.25" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

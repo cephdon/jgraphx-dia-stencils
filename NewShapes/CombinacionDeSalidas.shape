@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - CombinacionDeSalidas</name>
+  <icon>CombinacionDeSalidas.png</icon>
+  <connections>
+    <point x="16.55" y="7.2"/>
+    <point x="16.55" y="5.2"/>
+    <point x="15.55" y="6.2"/>
+    <point x="17.55" y="6.2"/>
+    <point x="15.8429" y="5.4929"/>
+    <point x="17.2571" y="6.9071"/>
+    <point x="16.55" y="6.2"/>
+    <point x="15.8429" y="6.9071"/>
+    <point x="17.2571" y="5.4929"/>
+    <point x="16.55" y="6.2"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="16.55" cy="6.2" rx="1" ry="1"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="16.55" cy="6.2" rx="1" ry="1"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.8429" y1="5.4929" x2="17.2571" y2="6.9071"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.8429" y1="6.9071" x2="17.2571" y2="5.4929"/>
+  </svg:svg>
+</shape>

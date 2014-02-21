@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - dobletriagulo</name>
+  <icon>dobletriagulo.png</icon>
+  <connections>
+    <point x="19.75" y="9.45"/>
+    <point x="23.4" y="15.8"/>
+    <point x="16.1" y="15.8"/>
+    <point x="21.575" y="12.625"/>
+    <point x="19.75" y="15.8"/>
+    <point x="16.1" y="11.7"/>
+    <point x="23.4" y="11.7"/>
+    <point x="19.75" y="17.95"/>
+    <point x="19.75" y="11.7"/>
+    <point x="21.575" y="14.825"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="19.75,9.45 23.4,15.8 16.1,15.8 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="19.75,9.45 23.4,15.8 16.1,15.8 "/>
+    <svg:polygon style="fill: #ffffff" points="16.1,11.7 23.4,11.7 19.75,17.95 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.1,11.7 23.4,11.7 19.75,17.95 "/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="19.75" y="13.4625" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

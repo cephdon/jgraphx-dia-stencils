@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - documento o archivo</name>
+  <icon>documento o archivo.png</icon>
+  <connections>
+    <point x="16.95" y="8.95"/>
+    <point x="20.33" y="8.95"/>
+    <point x="20.93" y="9.55"/>
+    <point x="20.93" y="14.65"/>
+    <point x="16.95" y="14.65"/>
+    <point x="18.64" y="8.95"/>
+    <point x="20.63" y="9.25"/>
+    <point x="20.93" y="12.1"/>
+    <point x="18.94" y="14.65"/>
+    <point x="20.33" y="8.95"/>
+    <point x="20.33" y="9.55"/>
+    <point x="20.93" y="9.55"/>
+    <point x="20.33" y="9.25"/>
+    <point x="20.63" y="9.55"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.95,8.95 20.33,8.95 20.93,9.55 20.93,14.65 16.95,14.65 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.95,8.95 20.33,8.95 20.93,9.55 20.93,14.65 16.95,14.65 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.05; stroke: #000000" points="20.33,8.95 20.33,9.55 20.93,9.55 "/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="17.3" y="10.195" textLength="0"></svg:text>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="17.3" y="10.995" textLength="0"></svg:text>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="17.3" y="11.795" textLength="0"></svg:text>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="17.3" y="12.595" textLength="0"></svg:text>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="17.3" y="13.395" textLength="2.31">      </svg:text>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:start; font-family: monospace; font-style: normal; font-weight: normal" x="17.3" y="14.195" textLength="3.08">        </svg:text>
+  </svg:svg>
+</shape>

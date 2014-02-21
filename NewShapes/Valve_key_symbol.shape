@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Valve_key_symbol</name>
+  <icon>Valve_key_symbol.png</icon>
+  <connections>
+    <point x="27.3214" y="8.1"/>
+    <point x="32.8286" y="8.1"/>
+    <point x="36.5" y="13.625"/>
+    <point x="32.8286" y="19.15"/>
+    <point x="27.3214" y="19.15"/>
+    <point x="23.65" y="13.625"/>
+    <point x="30.075" y="8.1"/>
+    <point x="34.6643" y="10.8625"/>
+    <point x="34.6643" y="16.3875"/>
+    <point x="30.075" y="19.15"/>
+    <point x="25.4857" y="16.3875"/>
+    <point x="27.3214" y="8.1"/>
+    <point x="32.8286" y="8.1"/>
+    <point x="36.5" y="13.625"/>
+    <point x="32.8286" y="19.15"/>
+    <point x="27.3214" y="19.15"/>
+    <point x="23.65" y="13.625"/>
+    <point x="30.075" y="8.1"/>
+    <point x="34.6643" y="10.8625"/>
+    <point x="34.6643" y="16.3875"/>
+    <point x="30.075" y="19.15"/>
+    <point x="25.4857" y="16.3875"/>
+    <point x="23.65" y="13.625"/>
+    <point x="36.5" y="13.625"/>
+    <point x="30.075" y="13.625"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="27.3214,8.1 32.8286,8.1 36.5,13.625 32.8286,19.15 27.3214,19.15 23.65,13.625 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="27.3214,8.1 32.8286,8.1 36.5,13.625 32.8286,19.15 27.3214,19.15 23.65,13.625 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="27.3214,8.1 32.8286,8.1 36.5,13.625 32.8286,19.15 27.3214,19.15 23.65,13.625 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="23.65" y1="13.625" x2="36.5" y2="13.625"/>
+  </svg:svg>
+</shape>

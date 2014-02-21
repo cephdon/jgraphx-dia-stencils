@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - ProcesoPredefinido</name>
+  <icon>ProcesoPredefinido.png</icon>
+  <connections>
+    <point x="15.45" y="5.15"/>
+    <point x="17.45" y="7.15"/>
+    <point x="15.45" y="7.15"/>
+    <point x="15.45" y="6.15"/>
+    <point x="17.45" y="5.15"/>
+    <point x="17.45" y="6.15"/>
+    <point x="16.45" y="7.15"/>
+    <point x="16.45" y="5.15"/>
+    <point x="15.65" y="5.15"/>
+    <point x="15.65" y="7.15"/>
+    <point x="15.65" y="6.15"/>
+    <point x="17.25" y="5.15"/>
+    <point x="17.25" y="7.15"/>
+    <point x="17.25" y="6.15"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="15.45" y="5.15" width="2" height="2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="15.45" y="5.15" width="2" height="2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.65" y1="5.15" x2="15.65" y2="7.15"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="17.25" y1="5.15" x2="17.25" y2="7.15"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.45" y="6.35" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

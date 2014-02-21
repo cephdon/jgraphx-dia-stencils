@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Base de datos</name>
+  <icon>Base de datos.png</icon>
+  <connections>
+    <point x="19.45" y="12.6"/>
+    <point x="19.45" y="5.5"/>
+    <point x="15.8" y="9.05"/>
+    <point x="23.1" y="9.05"/>
+    <point x="15.8" y="9.05"/>
+    <point x="23.1" y="9.05"/>
+    <point x="19.45" y="9.05"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="19.45" cy="9.05" rx="3.65" ry="3.55"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="19.45" cy="9.05" rx="3.65" ry="3.55"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.8" y1="9.05" x2="23.1" y2="9.05"/>
+  </svg:svg>
+</shape>

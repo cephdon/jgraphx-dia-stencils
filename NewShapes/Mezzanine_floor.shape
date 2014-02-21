@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Mezzanine_floor</name>
+  <icon>Mezzanine_floor.png</icon>
+  <connections>
+    <point x="22.1" y="7.05"/>
+    <point x="34.5" y="28.85"/>
+    <point x="22.1" y="28.85"/>
+    <point x="22.1" y="17.95"/>
+    <point x="34.5" y="7.05"/>
+    <point x="34.5" y="17.95"/>
+    <point x="28.3" y="28.85"/>
+    <point x="28.3" y="7.05"/>
+    <point x="22.8" y="7.65"/>
+    <point x="33.8" y="28.1"/>
+    <point x="22.8" y="28.1"/>
+    <point x="22.8" y="17.875"/>
+    <point x="33.8" y="7.65"/>
+    <point x="33.8" y="17.875"/>
+    <point x="28.3" y="28.1"/>
+    <point x="28.3" y="7.65"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="22.1" y="7.05" width="12.4" height="21.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="22.1" y="7.05" width="12.4" height="21.8"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="28.3" y="18.145" textLength="0"></svg:text>
+    <svg:rect style="fill: #ffffff" x="22.8" y="7.65" width="11" height="20.45"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="22.8" y="7.65" width="11" height="20.45"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="28.3" y="18.07" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

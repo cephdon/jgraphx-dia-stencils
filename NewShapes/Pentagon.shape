@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Pentagon</name>
+  <icon>Pentagon.png</icon>
+  <connections>
+    <point x="15.75" y="15.2571"/>
+    <point x="23.025" y="9.3"/>
+    <point x="30.3" y="15.2571"/>
+    <point x="26.6625" y="23.2"/>
+    <point x="19.3875" y="23.2"/>
+    <point x="19.3875" y="12.2786"/>
+    <point x="26.6625" y="12.2786"/>
+    <point x="28.4813" y="19.2286"/>
+    <point x="23.025" y="23.2"/>
+    <point x="15.75" y="15.2571"/>
+    <point x="23.025" y="9.3"/>
+    <point x="30.3" y="15.2571"/>
+    <point x="26.6625" y="23.2"/>
+    <point x="19.3875" y="23.2"/>
+    <point x="19.3875" y="12.2786"/>
+    <point x="26.6625" y="12.2786"/>
+    <point x="28.4813" y="19.2286"/>
+    <point x="23.025" y="23.2"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="15.75,15.2571 23.025,9.3 30.3,15.2571 26.6625,23.2 19.3875,23.2 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15.75,15.2571 23.025,9.3 30.3,15.2571 26.6625,23.2 19.3875,23.2 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15.75,15.2571 23.025,9.3 30.3,15.2571 26.6625,23.2 19.3875,23.2 "/>
+  </svg:svg>
+</shape>

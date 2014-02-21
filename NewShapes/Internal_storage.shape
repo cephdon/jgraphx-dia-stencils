@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - AlmacenamientoInterno</name>
+  <icon>AlmacenamientoInterno.png</icon>
+  <connections>
+    <point x="15.55" y="5.15"/>
+    <point x="17.55" y="7.15"/>
+    <point x="15.55" y="7.15"/>
+    <point x="15.55" y="6.15"/>
+    <point x="17.55" y="5.15"/>
+    <point x="17.55" y="6.15"/>
+    <point x="16.55" y="7.15"/>
+    <point x="16.55" y="5.15"/>
+    <point x="15.75" y="5.15"/>
+    <point x="15.75" y="7.15"/>
+    <point x="15.75" y="6.15"/>
+    <point x="15.55" y="5.35"/>
+    <point x="17.55" y="5.35"/>
+    <point x="16.55" y="5.35"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="15.55" y="5.15" width="2" height="2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="15.55" y="5.15" width="2" height="2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.75" y1="5.15" x2="15.75" y2="7.15"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.55" y1="5.35" x2="17.55" y2="5.35"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.65" y="6.45" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

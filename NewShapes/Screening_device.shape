@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Screening_device</name>
+  <icon>Screening_device.png</icon>
+  <connections>
+    <point x="11.4" y="8.75"/>
+    <point x="22.55" y="14.9"/>
+    <point x="11.4" y="14.9"/>
+    <point x="11.4" y="11.825"/>
+    <point x="22.55" y="8.75"/>
+    <point x="22.55" y="11.825"/>
+    <point x="16.975" y="14.9"/>
+    <point x="16.975" y="8.75"/>
+    <point x="14.1875" y="8.75"/>
+    <point x="14.1875" y="14.9"/>
+    <point x="14.1875" y="11.825"/>
+    <point x="19.7625" y="8.75"/>
+    <point x="19.7625" y="14.9"/>
+    <point x="19.7625" y="11.825"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="11.4" y="8.75" width="11.15" height="6.15"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="11.4" y="8.75" width="11.15" height="6.15"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.975" y="12.02" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="14.1875" y1="8.75" x2="14.1875" y2="14.9"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="19.7625" y1="8.75" x2="19.7625" y2="14.9"/>
+  </svg:svg>
+</shape>

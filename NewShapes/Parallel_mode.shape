@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - lineas_paralelas</name>
+  <icon>lineas_paralelas.png</icon>
+  <connections>
+    <point x="20.9997" y="9.34375"/>
+    <point x="30.7" y="9.35"/>
+    <point x="25.8499" y="9.34688"/>
+    <point x="21.0122" y="11.0938"/>
+    <point x="30.75" y="11.1"/>
+    <point x="25.8811" y="11.0969"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.9997" y1="9.34375" x2="30.7" y2="9.35"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="21.0122" y1="11.0938" x2="30.75" y2="11.1"/>
+  </svg:svg>
+</shape>

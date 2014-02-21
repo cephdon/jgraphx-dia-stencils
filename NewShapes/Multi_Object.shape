@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Multi_Object</name>
+  <icon>Multi_Object.png</icon>
+  <connections>
+    <point x="-11.2" y="8.1"/>
+    <point x="-1.7125" y="18.1125"/>
+    <point x="-11.2" y="18.1125"/>
+    <point x="-11.2" y="13.1062"/>
+    <point x="-1.7125" y="8.1"/>
+    <point x="-1.7125" y="13.1062"/>
+    <point x="-6.45625" y="18.1125"/>
+    <point x="-6.45625" y="8.1"/>
+    <point x="-10.1624" y="8.04375"/>
+    <point x="-10.1624" y="7.27469"/>
+    <point x="-0.7124" y="7.27469"/>
+    <point x="-0.7124" y="17.6687"/>
+    <point x="-1.7374" y="17.6687"/>
+    <point x="-10.1624" y="7.65922"/>
+    <point x="-5.4374" y="7.27469"/>
+    <point x="-0.7124" y="12.4717"/>
+    <point x="-1.2249" y="17.6687"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="-11.2" y="8.1" width="9.4875" height="10.0125"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="-11.2" y="8.1" width="9.4875" height="10.0125"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="-10.1624,8.04375 -10.1624,7.27469 -0.7124,7.27469 -0.7124,17.6687 -1.7374,17.6687 "/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Ceiling_fan</name>
+  <icon>Ceiling_fan.png</icon>
+  <connections>
+    <point x="15.0156" y="-1.34062"/>
+    <point x="29.4656" y="13.6781"/>
+    <point x="15.0156" y="13.6781"/>
+    <point x="15.0156" y="6.16875"/>
+    <point x="29.4656" y="-1.34062"/>
+    <point x="29.4656" y="6.16875"/>
+    <point x="22.2406" y="13.6781"/>
+    <point x="22.2406" y="-1.34062"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 16.0656 6.17812 C 16.0782,-0.15 28.3468,12.425 28.3656,6.12812 C 28.3845,-0.16875 16.053,12.5062 16.0656,6.17812"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="15.0156" y="-1.34062" width="14.45" height="15.0187"/>
+  </svg:svg>
+</shape>

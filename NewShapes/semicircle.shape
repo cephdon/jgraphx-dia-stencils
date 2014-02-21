@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - semicircle</name>
+  <icon>semicircle.png</icon>
+  <connections>
+    <point x="9.9375" y="10.4625"/>
+    <point x="26.8375" y="10.4375"/>
+    <point x="18.3875" y="10.45"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 26.8875,10.4625 A 8.5793,8.5793 0 0 0 9.93125,10.4563"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="9.9375" y1="10.4625" x2="26.8375" y2="10.4375"/>
+  </svg:svg>
+</shape>

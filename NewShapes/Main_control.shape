@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Main_control</name>
+  <icon>Main_control.png</icon>
+  <connections>
+    <point x="15.4" y="5.1"/>
+    <point x="29.9" y="15"/>
+    <point x="15.4" y="15"/>
+    <point x="15.4" y="10.05"/>
+    <point x="29.9" y="5.1"/>
+    <point x="29.9" y="10.05"/>
+    <point x="22.65" y="15"/>
+    <point x="22.65" y="5.1"/>
+    <point x="15.4" y="15"/>
+    <point x="29.9" y="5.1"/>
+    <point x="22.65" y="10.05"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="15.4" y="5.1" width="14.5" height="9.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="15.4" y="5.1" width="14.5" height="9.9"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="22.65" y="10.245" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.4" y1="15" x2="29.9" y2="5.1"/>
+  </svg:svg>
+</shape>

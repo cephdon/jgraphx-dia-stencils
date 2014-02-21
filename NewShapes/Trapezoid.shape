@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Trapezoid</name>
+  <icon>Trapezoid.png</icon>
+  <connections>
+    <point x="18.6625" y="5.25"/>
+    <point x="24.1875" y="5.25"/>
+    <point x="26.95" y="11.85"/>
+    <point x="15.9" y="11.85"/>
+    <point x="21.425" y="5.25"/>
+    <point x="25.5687" y="8.55"/>
+    <point x="21.425" y="11.85"/>
+    <point x="18.6625" y="5.25"/>
+    <point x="24.1875" y="5.25"/>
+    <point x="26.95" y="11.85"/>
+    <point x="15.9" y="11.85"/>
+    <point x="21.425" y="5.25"/>
+    <point x="25.5687" y="8.55"/>
+    <point x="21.425" y="11.85"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="18.6625,5.25 24.1875,5.25 26.95,11.85 15.9,11.85 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="18.6625,5.25 24.1875,5.25 26.95,11.85 15.9,11.85 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="18.6625,5.25 24.1875,5.25 26.95,11.85 15.9,11.85 "/>
+  </svg:svg>
+</shape>

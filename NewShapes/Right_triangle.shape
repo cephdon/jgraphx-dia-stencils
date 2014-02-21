@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - triangulo_rectangulo</name>
+  <icon>triangulo_rectangulo.png</icon>
+  <connections>
+    <point x="16.15" y="14.95"/>
+    <point x="25.8" y="14.95"/>
+    <point x="16.15" y="5"/>
+    <point x="20.975" y="14.95"/>
+    <point x="20.975" y="9.975"/>
+    <point x="16.15" y="14.95"/>
+    <point x="25.8" y="14.95"/>
+    <point x="16.15" y="5"/>
+    <point x="20.975" y="14.95"/>
+    <point x="20.975" y="9.975"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.15,14.95 25.8,14.95 16.15,5 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.15,14.95 25.8,14.95 16.15,5 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" points="16.15,14.95 25.8,14.95 16.15,5 "/>
+  </svg:svg>
+</shape>

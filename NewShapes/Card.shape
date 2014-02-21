@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - TarjetaPerforada</name>
+  <icon>TarjetaPerforada.png</icon>
+  <connections>
+    <point x="15.6" y="5.2"/>
+    <point x="17.4" y="5.2"/>
+    <point x="17.4" y="7.2"/>
+    <point x="15.4" y="7.2"/>
+    <point x="15.4" y="5.4"/>
+    <point x="16.5" y="5.2"/>
+    <point x="17.4" y="6.2"/>
+    <point x="16.4" y="7.2"/>
+    <point x="15.4" y="6.3"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="15.6,5.2 17.4,5.2 17.4,7.2 15.4,7.2 15.4,5.4 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15.6,5.2 17.4,5.2 17.4,7.2 15.4,7.2 15.4,5.4 "/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.45" y="6.45" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Off_page_reference</name>
+  <icon>Off_page_reference.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: #ffffff" d="M 24.2 5.4 L 15.55,5.4 L 15.55,12.36 L 19.875,14.1 L 24.2,12.36 L 24.2,5.4"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 24.2 5.4 L 15.55,5.4 L 15.55,12.36 L 19.875,14.1 L 24.2,12.36 L 24.2,5.4"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="19.875" y="9.08" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

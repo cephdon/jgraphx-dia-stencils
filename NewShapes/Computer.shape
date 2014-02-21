@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - equipo</name>
+  <icon>equipo.png</icon>
+  <connections>
+    <point x="11.7" y="10.5"/>
+    <point x="23.05" y="21.5"/>
+    <point x="11.7" y="21.5"/>
+    <point x="11.7" y="16"/>
+    <point x="23.05" y="10.5"/>
+    <point x="23.05" y="16"/>
+    <point x="17.375" y="21.5"/>
+    <point x="17.375" y="10.5"/>
+    <point x="11.7" y="16"/>
+    <point x="14.5375" y="10.5"/>
+    <point x="13.1187" y="13.25"/>
+    <point x="11.7" y="16"/>
+    <point x="14.5375" y="21.5"/>
+    <point x="13.1187" y="18.75"/>
+    <point x="20.2125" y="10.5"/>
+    <point x="23.05" y="16"/>
+    <point x="21.6313" y="13.25"/>
+    <point x="23.05" y="16"/>
+    <point x="20.2125" y="21.5"/>
+    <point x="21.6313" y="18.75"/>
+    <point x="11.7" y="16"/>
+    <point x="23.05" y="16"/>
+    <point x="17.375" y="16"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="11.7" y="10.5" width="11.35" height="11"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="11.7" y="10.5" width="11.35" height="11"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="17.375" y="16.195" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.7" y1="16" x2="14.5375" y2="10.5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.7" y1="16" x2="14.5375" y2="21.5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.2125" y1="10.5" x2="23.05" y2="16"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="23.05" y1="16" x2="20.2125" y2="21.5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.7" y1="16" x2="23.05" y2="16"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - actor</name>
+  <icon>actor.png</icon>
+  <connections>
+    <point x="11.35" y="11.65"/>
+    <point x="11.35" y="11.05"/>
+    <point x="11.05" y="11.35"/>
+    <point x="11.65" y="11.35"/>
+    <point x="10.15" y="11.95"/>
+    <point x="12.55" y="11.95"/>
+    <point x="11.35" y="11.95"/>
+    <point x="11.35" y="11.65"/>
+    <point x="11.35" y="13.15"/>
+    <point x="11.35" y="12.4"/>
+    <point x="11.35" y="13.15"/>
+    <point x="10.15" y="14.45"/>
+    <point x="10.75" y="13.8"/>
+    <point x="11.35" y="13.15"/>
+    <point x="12.55" y="14.45"/>
+    <point x="11.95" y="13.8"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="11.35" cy="11.35" rx="0.3" ry="0.3"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="11.35" cy="11.35" rx="0.3" ry="0.3"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10.15" y1="11.95" x2="12.55" y2="11.95"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.35" y1="11.65" x2="11.35" y2="13.15"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.35" y1="13.15" x2="10.15" y2="14.45"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="11.35" y1="13.15" x2="12.55" y2="14.45"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="11.35" y="15.645" textLength="1.695">Actor</svg:text>
+  </svg:svg>
+</shape>

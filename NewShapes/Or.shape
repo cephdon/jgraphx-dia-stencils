@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Or</name>
+  <icon>Or.png</icon>
+  <connections>
+    <point x="20.25" y="14.05"/>
+    <point x="20.25" y="5.65"/>
+    <point x="15.85" y="9.85"/>
+    <point x="24.65" y="9.85"/>
+    <point x="15.85" y="9.85"/>
+    <point x="24.65" y="9.85"/>
+    <point x="20.25" y="9.85"/>
+    <point x="20.25" y="5.65"/>
+    <point x="20.25" y="14.05"/>
+    <point x="20.25" y="9.85"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="20.25" cy="9.85" rx="4.4" ry="4.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="20.25" cy="9.85" rx="4.4" ry="4.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.85" y1="9.85" x2="24.65" y2="9.85"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.25" y1="5.65" x2="20.25" y2="14.05"/>
+  </svg:svg>
+</shape>

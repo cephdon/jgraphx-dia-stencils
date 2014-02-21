@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Interrupcion de Terminal</name>
+  <icon>Interrupcion de Terminal.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: #ffffff" d="M 18.7833 4.75 L 20.1167,4.75 C 20.3008,4.75 20.45,4.99624 20.45,5.3 C 20.45,5.60376 20.3008,5.85 20.1167,5.85 L 18.7833,5.85 C 18.5992,5.85 18.45,5.60376 18.45,5.3 C 18.45,4.99624 18.5992,4.75 18.7833,4.75z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 18.7833 4.75 L 20.1167,4.75 C 20.3008,4.75 20.45,4.99624 20.45,5.3 C 20.45,5.60376 20.3008,5.85 20.1167,5.85 L 18.7833,5.85 C 18.5992,5.85 18.45,5.60376 18.45,5.3 C 18.45,4.99624 18.5992,4.75 18.7833,4.75"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="19.45" y="5.5" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

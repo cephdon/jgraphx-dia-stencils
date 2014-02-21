@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Collate</name>
+  <icon>Collate.png</icon>
+  <connections>
+    <point x="8.1" y="8.85"/>
+    <point x="15.25" y="8.85"/>
+    <point x="11.675" y="13"/>
+    <point x="11.675" y="8.85"/>
+    <point x="13.4625" y="10.925"/>
+    <point x="8.1" y="17.15"/>
+    <point x="15.25" y="17.15"/>
+    <point x="11.675" y="13"/>
+    <point x="11.675" y="17.15"/>
+    <point x="13.4625" y="15.075"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="8.1,8.85 15.25,8.85 11.675,13 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="8.1,8.85 15.25,8.85 11.675,13 "/>
+    <svg:polygon style="fill: #ffffff" points="8.1,17.15 15.25,17.15 11.675,13 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="8.1,17.15 15.25,17.15 11.675,13 "/>
+  </svg:svg>
+</shape>

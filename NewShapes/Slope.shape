@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - pendiente</name>
+  <icon>pendiente.png</icon>
+  <connections>
+    <point x="7.45" y="13.55"/>
+    <point x="17.45" y="13.55"/>
+    <point x="7.45" y="10.35"/>
+    <point x="12.45" y="13.55"/>
+    <point x="12.45" y="11.95"/>
+    <point x="7.45" y="13.55"/>
+    <point x="17.45" y="13.55"/>
+    <point x="7.45" y="10.35"/>
+    <point x="12.45" y="13.55"/>
+    <point x="12.45" y="11.95"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="7.45,13.55 17.45,13.55 7.45,10.35 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="7.45,13.55 17.45,13.55 7.45,10.35 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" points="7.45,13.55 17.45,13.55 7.45,10.35 "/>
+  </svg:svg>
+</shape>

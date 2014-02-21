@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Special_connector</name>
+  <icon>Special_connector.png</icon>
+  <connections>
+    <point x="20.6716" y="15.4"/>
+    <point x="20.6716" y="5.19664"/>
+    <point x="15.5433" y="10.2983"/>
+    <point x="25.8" y="10.2983"/>
+    <point x="20.6716" y="5.19664"/>
+    <point x="20.6716" y="15.4"/>
+    <point x="20.6716" y="10.2983"/>
+    <point x="15.5433" y="10.2983"/>
+    <point x="25.8" y="10.2983"/>
+    <point x="20.6716" y="10.2983"/>
+    <point x="17.0453" y="6.69088"/>
+    <point x="24.2979" y="13.9058"/>
+    <point x="20.6716" y="10.2983"/>
+    <point x="24.2979" y="6.69088"/>
+    <point x="17.0453" y="13.9058"/>
+    <point x="20.6716" y="10.2983"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="20.6716" cy="10.2983" rx="5.12836" ry="5.10168"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="20.6716" cy="10.2983" rx="5.12836" ry="5.10168"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="20.6716" y="10.4933" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.6716" y1="5.19664" x2="20.6716" y2="15.4"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.5433" y1="10.2983" x2="25.8" y2="10.2983"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="17.0453" y1="6.69088" x2="24.2979" y2="13.9058"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="24.2979" y1="6.69088" x2="17.0453" y2="13.9058"/>
+  </svg:svg>
+</shape>

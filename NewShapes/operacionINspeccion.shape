@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - operacionINspeccion</name>
+  <icon>operacionINspeccion.png</icon>
+  <connections>
+    <point x="7.15" y="-44.0125"/>
+    <point x="18" y="-33.8125"/>
+    <point x="7.15" y="-33.8125"/>
+    <point x="7.15" y="-38.9125"/>
+    <point x="18" y="-44.0125"/>
+    <point x="18" y="-38.9125"/>
+    <point x="12.575" y="-33.8125"/>
+    <point x="12.575" y="-44.0125"/>
+    <point x="12.625" y="-33.8125"/>
+    <point x="12.625" y="-44.0625"/>
+    <point x="7.15" y="-38.9375"/>
+    <point x="18.1" y="-38.9375"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="7.15" y="-44.0125" width="10.85" height="10.2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="7.15" y="-44.0125" width="10.85" height="10.2"/>
+    <svg:ellipse style="fill: #ffffff" cx="12.625" cy="-38.9375" rx="5.475" ry="5.125"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.625" cy="-38.9375" rx="5.475" ry="5.125"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Concentricity</name>
+  <icon>Concentricity.png</icon>
+  <connections>
+    <point x="12.3625" y="16.675"/>
+    <point x="12.3625" y="6.45"/>
+    <point x="7.25" y="11.5625"/>
+    <point x="17.475" y="11.5625"/>
+    <point x="12.3625" y="16.675"/>
+    <point x="12.3625" y="6.45"/>
+    <point x="7.25" y="11.5625"/>
+    <point x="17.475" y="11.5625"/>
+    <point x="12.3375" y="14.825"/>
+    <point x="12.3375" y="8.15"/>
+    <point x="9" y="11.4875"/>
+    <point x="15.675" y="11.4875"/>
+    <point x="12.3375" y="14.825"/>
+    <point x="12.3375" y="8.15"/>
+    <point x="9" y="11.4875"/>
+    <point x="15.675" y="11.4875"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="12.3625" cy="11.5625" rx="5.1125" ry="5.1125"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.3625" cy="11.5625" rx="5.1125" ry="5.1125"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.3625" cy="11.5625" rx="5.1125" ry="5.1125"/>
+    <svg:ellipse style="fill: #ffffff" cx="12.3375" cy="11.4875" rx="3.3375" ry="3.3375"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.3375" cy="11.4875" rx="3.3375" ry="3.3375"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.3375" cy="11.4875" rx="3.3375" ry="3.3375"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - grupo de proceso</name>
+  <icon>grupo de proceso.png</icon>
+  <connections>
+    <point x="17.75" y="5.1"/>
+    <point x="26.0833" y="5.1"/>
+    <point x="30.25" y="7.675"/>
+    <point x="26.0833" y="10.25"/>
+    <point x="17.75" y="10.25"/>
+    <point x="21.9167" y="7.675"/>
+    <point x="21.9167" y="5.1"/>
+    <point x="28.1667" y="6.3875"/>
+    <point x="28.1667" y="8.9625"/>
+    <point x="21.9167" y="10.25"/>
+    <point x="19.8333" y="8.9625"/>
+    <point x="17.75" y="5.1"/>
+    <point x="26.0833" y="5.1"/>
+    <point x="30.25" y="7.675"/>
+    <point x="26.0833" y="10.25"/>
+    <point x="17.75" y="10.25"/>
+    <point x="21.9167" y="7.675"/>
+    <point x="21.9167" y="5.1"/>
+    <point x="28.1667" y="6.3875"/>
+    <point x="28.1667" y="8.9625"/>
+    <point x="21.9167" y="10.25"/>
+    <point x="19.8333" y="8.9625"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="17.75,5.1 26.0833,5.1 30.25,7.675 26.0833,10.25 17.75,10.25 21.9167,7.675 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="17.75,5.1 26.0833,5.1 30.25,7.675 26.0833,10.25 17.75,10.25 21.9167,7.675 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="17.75,5.1 26.0833,5.1 30.25,7.675 26.0833,10.25 17.75,10.25 21.9167,7.675 "/>
+  </svg:svg>
+</shape>

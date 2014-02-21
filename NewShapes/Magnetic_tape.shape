@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - CintaMagnetica</name>
+  <icon>CintaMagnetica.png</icon>
+  <connections>
+    <point x="16.5" y="7.15"/>
+    <point x="16.5" y="5.15"/>
+    <point x="15.5" y="6.15"/>
+    <point x="17.5" y="6.15"/>
+    <point x="16.5" y="7.15"/>
+    <point x="17.5" y="7.15"/>
+    <point x="17" y="7.15"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="16.5" cy="6.15" rx="1" ry="1"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="16.5" cy="6.15" rx="1" ry="1"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="16.5" y1="7.15" x2="17.5" y2="7.15"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.5" y="6.35" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

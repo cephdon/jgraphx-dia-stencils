@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - nota de txto</name>
+  <icon>nota de txto.png</icon>
+  <connections>
+    <point x="16.2" y="6.5"/>
+    <point x="28.716" y="6.5"/>
+    <point x="31.1" y="8.23"/>
+    <point x="31.1" y="15.15"/>
+    <point x="16.2" y="15.15"/>
+    <point x="22.458" y="6.5"/>
+    <point x="29.908" y="7.365"/>
+    <point x="31.1" y="11.69"/>
+    <point x="23.65" y="15.15"/>
+    <point x="28.716" y="6.5"/>
+    <point x="28.716" y="8.23"/>
+    <point x="28.716" y="7.365"/>
+    <point x="28.716" y="8.23"/>
+    <point x="31.1" y="8.23"/>
+    <point x="29.908" y="8.23"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.2,6.5 28.716,6.5 31.1,8.23 31.1,15.15 16.2,15.15 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.2,6.5 28.716,6.5 31.1,8.23 31.1,15.15 16.2,15.15 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="28.716" y1="6.5" x2="28.716" y2="8.23"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="28.716" y1="8.23" x2="31.1" y2="8.23"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="23.65" y="11.025" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

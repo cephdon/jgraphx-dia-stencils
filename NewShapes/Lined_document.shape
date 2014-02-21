@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Escritorio - Lined_document</name>
+  <icon>Lined_document.png</icon>
+  <connections>
+    <point x="12.65" y="9.25"/>
+    <point x="12.65" y="16.3857"/>
+    <point x="12.65" y="12.8179"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: #ffffff" d="M 9.85 9.25 L 21.05,9.25 L 21.05,15.5929 C 18.81,14.5357 17.69,14.5357 15.45,15.5929 C 13.21,16.65 12.09,16.65 9.85,15.5929 L 9.85,9.25"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 9.85 9.25 L 21.05,9.25 L 21.05,15.5929 C 18.81,14.5357 17.69,14.5357 15.45,15.5929 C 13.21,16.65 12.09,16.65 9.85,15.5929 L 9.85,9.25"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="15.45" y="12.0929" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="12.65" y1="9.25" x2="12.65" y2="16.3857"/>
+  </svg:svg>
+</shape>

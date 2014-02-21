@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - CintaPerforada</name>
+  <icon>CintaPerforada.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: #ffffff" d="M 15.55 5.425 C 15.95,5.7 16.15,5.7 16.55,5.425 C 16.95,5.15 17.15,5.15 17.55,5.425 L 17.55,7.075 C 17.15,6.8 16.95,6.8 16.55,7.075 C 16.15,7.35 15.95,7.35 15.55,7.075 L 15.55,5.425"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 15.55 5.425 C 15.95,5.7 16.15,5.7 16.55,5.425 C 16.95,5.15 17.15,5.15 17.55,5.425 L 17.55,7.075 C 17.15,6.8 16.95,6.8 16.55,7.075 C 16.15,7.35 15.95,7.35 15.55,7.075 L 15.55,5.425"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.55" y="6.45" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

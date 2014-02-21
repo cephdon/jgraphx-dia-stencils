@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Documento</name>
+  <icon>Documento.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: #ffffff" d="M 15.45 5.25 L 111.1,5.25 L 111.1,64.2857 C 91.97,54.4464 82.405,54.4464 63.275,64.2857 C 44.145,74.125 34.58,74.125 15.45,64.2857 L 15.45,5.25"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 15.45 5.25 L 111.1,5.25 L 111.1,64.2857 C 91.97,54.4464 82.405,54.4464 63.275,64.2857 C 44.145,74.125 34.58,74.125 15.45,64.2857 L 15.45,5.25"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="63.275" y="30.0482" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

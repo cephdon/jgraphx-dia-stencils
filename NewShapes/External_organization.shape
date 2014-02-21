@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - External_organization</name>
+  <icon>External_organization.png</icon>
+  <connections>
+    <point x="9.35" y="6.7"/>
+    <point x="23.95" y="20.45"/>
+    <point x="9.35" y="20.45"/>
+    <point x="9.35" y="13.575"/>
+    <point x="23.95" y="6.7"/>
+    <point x="23.95" y="13.575"/>
+    <point x="16.65" y="20.45"/>
+    <point x="16.65" y="6.7"/>
+    <point x="13" y="6.7"/>
+    <point x="9.35" y="10.1375"/>
+    <point x="11.175" y="8.41875"/>
+    <point x="20.3" y="6.7"/>
+    <point x="23.95" y="10.1375"/>
+    <point x="22.125" y="8.41875"/>
+    <point x="9.35" y="17.0125"/>
+    <point x="13" y="20.45"/>
+    <point x="11.175" y="18.7312"/>
+    <point x="20.3" y="20.45"/>
+    <point x="23.95" y="17.0125"/>
+    <point x="22.125" y="18.7312"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="9.35" y="6.7" width="14.6" height="13.75"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="9.35" y="6.7" width="14.6" height="13.75"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.65" y="13.77" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="13" y1="6.7" x2="9.35" y2="10.1375"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.3" y1="6.7" x2="23.95" y2="10.1375"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="9.35" y1="17.0125" x2="13" y2="20.45"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="20.3" y1="20.45" x2="23.95" y2="17.0125"/>
+  </svg:svg>
+</shape>

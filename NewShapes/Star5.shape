@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Star5</name>
+  <icon>Star5.png</icon>
+  <connections>
+    <point x="16.15" y="8.952"/>
+    <point x="20.3107" y="8.952"/>
+    <point x="21.975" y="5.1"/>
+    <point x="23.6393" y="8.952"/>
+    <point x="27.8" y="8.952"/>
+    <point x="24.4714" y="11.52"/>
+    <point x="26.1357" y="15.8"/>
+    <point x="21.975" y="12.804"/>
+    <point x="17.8143" y="15.8"/>
+    <point x="19.4786" y="11.52"/>
+    <point x="18.2304" y="8.952"/>
+    <point x="21.1429" y="7.026"/>
+    <point x="22.8071" y="7.026"/>
+    <point x="25.7196" y="8.952"/>
+    <point x="26.1357" y="10.236"/>
+    <point x="25.3036" y="13.66"/>
+    <point x="24.0554" y="14.302"/>
+    <point x="19.8946" y="14.302"/>
+    <point x="18.6464" y="13.66"/>
+    <point x="16.15" y="8.952"/>
+    <point x="20.3107" y="8.952"/>
+    <point x="21.975" y="5.1"/>
+    <point x="23.6393" y="8.952"/>
+    <point x="27.8" y="8.952"/>
+    <point x="24.4714" y="11.52"/>
+    <point x="26.1357" y="15.8"/>
+    <point x="21.975" y="12.804"/>
+    <point x="17.8143" y="15.8"/>
+    <point x="19.4786" y="11.52"/>
+    <point x="18.2304" y="8.952"/>
+    <point x="21.1429" y="7.026"/>
+    <point x="22.8071" y="7.026"/>
+    <point x="25.7196" y="8.952"/>
+    <point x="26.1357" y="10.236"/>
+    <point x="25.3036" y="13.66"/>
+    <point x="24.0554" y="14.302"/>
+    <point x="19.8946" y="14.302"/>
+    <point x="18.6464" y="13.66"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="16.15,8.952 20.3107,8.952 21.975,5.1 23.6393,8.952 27.8,8.952 24.4714,11.52 26.1357,15.8 21.975,12.804 17.8143,15.8 19.4786,11.52 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="16.15,8.952 20.3107,8.952 21.975,5.1 23.6393,8.952 27.8,8.952 24.4714,11.52 26.1357,15.8 21.975,12.804 17.8143,15.8 19.4786,11.52 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" points="16.15,8.952 20.3107,8.952 21.975,5.1 23.6393,8.952 27.8,8.952 24.4714,11.52 26.1357,15.8 21.975,12.804 17.8143,15.8 19.4786,11.52 "/>
+  </svg:svg>
+</shape>

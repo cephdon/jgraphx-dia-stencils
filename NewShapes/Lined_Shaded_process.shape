@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Lined_Shaded_ process</name>
+  <icon>Lined_Shaded_ process.png</icon>
+  <connections>
+    <point x="19.85" y="7.8"/>
+    <point x="35.15" y="17.05"/>
+    <point x="19.85" y="17.05"/>
+    <point x="19.85" y="12.425"/>
+    <point x="35.15" y="7.8"/>
+    <point x="35.15" y="12.425"/>
+    <point x="27.5" y="17.05"/>
+    <point x="27.5" y="7.8"/>
+    <point x="23.675" y="7.8"/>
+    <point x="23.675" y="17.05"/>
+    <point x="23.675" y="12.425"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="19.85" y="7.8" width="15.3" height="9.25"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="19.85" y="7.8" width="15.3" height="9.25"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="27.5" y="12.62" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="23.675" y1="7.8" x2="23.675" y2="17.05"/>
+  </svg:svg>
+</shape>

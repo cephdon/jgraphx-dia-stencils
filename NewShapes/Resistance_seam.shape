@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Costura</name>
+  <icon>Costura.png</icon>
+  <connections>
+    <point x="23.175" y="16.075"/>
+    <point x="23.175" y="6.075"/>
+    <point x="17.975" y="11.075"/>
+    <point x="28.375" y="11.075"/>
+    <point x="15.95" y="8.6"/>
+    <point x="30.05" y="8.6"/>
+    <point x="23" y="8.6"/>
+    <point x="15.925" y="13.445"/>
+    <point x="30.025" y="13.445"/>
+    <point x="22.975" y="13.445"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="23.175" cy="11.075" rx="5.2" ry="5"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="23.175" cy="11.075" rx="5.2" ry="5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.95" y1="8.6" x2="30.05" y2="8.6"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15.925" y1="13.445" x2="30.025" y2="13.445"/>
+  </svg:svg>
+</shape>

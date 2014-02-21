@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diagrams - Octagon</name>
+  <icon>Octagon.png</icon>
+  <connections>
+    <point x="18.0786" y="5.25"/>
+    <point x="22.0214" y="5.25"/>
+    <point x="24.65" y="7.87857"/>
+    <point x="24.65" y="11.8214"/>
+    <point x="22.0214" y="14.45"/>
+    <point x="18.0786" y="14.45"/>
+    <point x="15.45" y="11.8214"/>
+    <point x="15.45" y="7.87857"/>
+    <point x="20.05" y="5.25"/>
+    <point x="23.3357" y="6.56429"/>
+    <point x="24.65" y="9.85"/>
+    <point x="23.3357" y="13.1357"/>
+    <point x="20.05" y="14.45"/>
+    <point x="16.7643" y="13.1357"/>
+    <point x="15.45" y="9.85"/>
+    <point x="18.0786" y="5.25"/>
+    <point x="22.0214" y="5.25"/>
+    <point x="24.65" y="7.87857"/>
+    <point x="24.65" y="11.8214"/>
+    <point x="22.0214" y="14.45"/>
+    <point x="18.0786" y="14.45"/>
+    <point x="15.45" y="11.8214"/>
+    <point x="15.45" y="7.87857"/>
+    <point x="20.05" y="5.25"/>
+    <point x="23.3357" y="6.56429"/>
+    <point x="24.65" y="9.85"/>
+    <point x="23.3357" y="13.1357"/>
+    <point x="20.05" y="14.45"/>
+    <point x="16.7643" y="13.1357"/>
+    <point x="15.45" y="9.85"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="18.0786,5.25 22.0214,5.25 24.65,7.87857 24.65,11.8214 22.0214,14.45 18.0786,14.45 15.45,11.8214 15.45,7.87857 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="18.0786,5.25 22.0214,5.25 24.65,7.87857 24.65,11.8214 22.0214,14.45 18.0786,14.45 15.45,11.8214 15.45,7.87857 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="18.0786,5.25 22.0214,5.25 24.65,7.87857 24.65,11.8214 22.0214,14.45 18.0786,14.45 15.45,11.8214 15.45,7.87857 "/>
+  </svg:svg>
+</shape>

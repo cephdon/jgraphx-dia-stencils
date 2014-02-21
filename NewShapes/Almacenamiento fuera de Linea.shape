@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>NewShapes - Almacenamiento fuera de Linea</name>
+  <icon>Almacenamiento fuera de Linea.png</icon>
+  <connections>
+    <point x="15.45" y="5.1"/>
+    <point x="17.45" y="5.1"/>
+    <point x="16.45" y="7.3"/>
+    <point x="16.45" y="5.1"/>
+    <point x="16.95" y="6.2"/>
+    <point x="16.25" y="6.86"/>
+    <point x="16.65" y="6.86"/>
+    <point x="16.45" y="6.86"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #ffffff" points="15.45,5.1 17.45,5.1 16.45,7.3 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="15.45,5.1 17.45,5.1 16.45,7.3 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="16.25" y1="6.86" x2="16.65" y2="6.86"/>
+    <svg:text style="fill: #000000; font-size: 0.8; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="16.45" y="5.85" textLength="0"></svg:text>
+  </svg:svg>
+</shape>
